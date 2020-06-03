@@ -1,3 +1,3 @@
 # demoConflict
 
-The best breakfast food is ____.
+The best breakfast food is donuts.
